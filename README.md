@@ -1,4 +1,4 @@
-First  clone my repository 
+First clone my repository 
 Second Install all the dependencies by using the command npm -i
 Third To run the code, use node server.js
 
